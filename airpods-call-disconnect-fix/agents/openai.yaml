@@ -1,0 +1,4 @@
+interface:
+  display_name: "AirPods Call Disconnect Fix"
+  short_description: "Try Standard Mic Mode for call-only AirPods drops"
+  default_prompt: "Use $airpods-call-disconnect-fix to troubleshoot AirPods that disconnect immediately when a call starts on an iPhone."
